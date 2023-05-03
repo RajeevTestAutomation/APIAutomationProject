@@ -38,3 +38,11 @@
 17:40:02.923 [main] INFO  test.UserTests2 - ******************* User has updated **************
 17:40:02.924 [main] INFO  test.UserTests2 - ******************* Deleting User**************
 17:40:03.434 [main] INFO  test.UserTests2 - ******************* User has deleted **************
+10:24:31.523 [main] INFO  test.UserTests2 - ******************* Creating User**************
+10:24:34.434 [main] INFO  test.UserTests2 - *******************User is created  **************
+10:24:34.457 [main] INFO  test.UserTests2 - ******************* Reading User info **************
+10:24:35.181 [main] INFO  test.UserTests2 - ******************* User information is displayed **************
+10:24:35.183 [main] INFO  test.UserTests2 - ******************* Updating User**************
+10:24:36.844 [main] INFO  test.UserTests2 - ******************* User has updated **************
+10:24:36.846 [main] INFO  test.UserTests2 - ******************* Deleting User**************
+10:24:37.505 [main] INFO  test.UserTests2 - ******************* User has deleted **************
